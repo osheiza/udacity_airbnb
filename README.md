@@ -18,5 +18,10 @@ The following libraries are used in this project:
  - spacy
  - nltk
  
+ ## Important Files
+ 
+ The code you want to see can be found in this file: Airbnb Prices - Can Your Title Get You a Bigger Payday?.ipynb
+ The Seattle data is located in the seattle_airbnb folder.
+ 
  Please note you might need to run pip install <library_name> if your library isn't already in your environment.
  
